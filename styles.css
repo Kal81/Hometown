@@ -20,6 +20,8 @@ body {
 .hero-section{
   background-image: url(images/veracruz-beaches.jpg);
   background-size: cover;
+background-repeat: no-repeat;
+  background-position: center;	
   height: 50vh;
   width: 100%;
   display: flex;
